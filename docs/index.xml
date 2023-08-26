@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CEAC</title>
+    <link>https://ceacweb.github.io/</link>
+      <atom:link href="https://ceacweb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>CEAC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceacweb.github.io/media/icon_huff29e3605d6b85d3aeb4c3653c4164c2_305342_512x512_fill_lanczos_center_3.png</url>
+      <title>CEAC</title>
+      <link>https://ceacweb.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Novo site do CEAC</title>
+      <link>https://ceacweb.github.io/novidades/novo_site_ceac/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ceacweb.github.io/novidades/novo_site_ceac/</guid>
+      <description>&lt;p&gt;Uma nova forma de enchergar o CEAC já está disponivel!&lt;/p&gt;
+&lt;p&gt;O site do CEAC, chegou e estamos muito empolgados para, através do mesmo, divulgarmos diversas informações sobre, Engenharia, Programação e é claro sobre o nosso queridinho CEAC, fiquem ligados, em breve haverão muitas novidades por aqui, este é apenas o começo de muitos projetos que estão por vir.&lt;/p&gt;
+&lt;p&gt;Não perca as postagens por aqui, porque a cada postagem é um conhecimento adquirido e claro você não quer perder a oportunidade de se aprofundar ainda mais na área que mais cresce no mercado! É como diria um de nossos coordenadores &amp;ldquo;Conhecimento é uma liberdade necessária&amp;rdquo; - Ben Dêivide.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ceacweb.github.io/contato/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ceacweb.github.io/contato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://ceacweb.github.io/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ceacweb.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ceacweb.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ceacweb.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre nós</title>
+      <link>https://ceacweb.github.io/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ceacweb.github.io/sobre/</guid>
+      <description>&lt;p&gt;O Clube de Engenharia Assistida por Computador é um projeto de ensino da Universidade Federal de São Jõao DEl-Rei(UFSJ) campus Alto Paroepeba (CAP), baseado no desenvolvimento de códigos centrados na resolução de problemas reais de engenharia além de propósitos educacionais. O objetivo do clube é fornecer tutoria para os estudantes da universidade, para que assim, estes possam compreender melhor a programação e utilizá-la como uma ferramenta em sua carreira.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

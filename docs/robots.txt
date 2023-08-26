@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ceacweb.github.io/sitemap.xml
