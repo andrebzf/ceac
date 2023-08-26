@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | CEAC</title>
-    <link>https://ceacweb.github.io/tags/</link>
-      <atom:link href="https://ceacweb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrebzf.github.io/ceac.github.io/tags/</link>
+      <atom:link href="https://andrebzf.github.io/ceac.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language>
     <image>
-      <url>https://ceacweb.github.io/media/icon_huff29e3605d6b85d3aeb4c3653c4164c2_305342_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andrebzf.github.io/ceac.github.io/media/icon_huff29e3605d6b85d3aeb4c3653c4164c2_305342_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://ceacweb.github.io/tags/</link>
+      <link>https://andrebzf.github.io/ceac.github.io/tags/</link>
     </image>
     
   </channel>

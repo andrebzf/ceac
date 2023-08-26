@@ -6,7 +6,7 @@ theme: "starter-hugo-research-group"
 
 title: CEAC
 publishDIR: 'docs'
-baseURL: 'https://ceacweb.github.io/' # Website URL
+baseURL: 'https://andrebzf.github.io/ceac.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

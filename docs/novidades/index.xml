@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Novidades | CEAC</title>
-    <link>https://ceacweb.github.io/novidades/</link>
-      <atom:link href="https://ceacweb.github.io/novidades/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrebzf.github.io/ceac.github.io/novidades/</link>
+      <atom:link href="https://andrebzf.github.io/ceac.github.io/novidades/index.xml" rel="self" type="application/rss+xml" />
     <description>Novidades</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ceacweb.github.io/media/icon_huff29e3605d6b85d3aeb4c3653c4164c2_305342_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andrebzf.github.io/ceac.github.io/media/icon_huff29e3605d6b85d3aeb4c3653c4164c2_305342_512x512_fill_lanczos_center_3.png</url>
       <title>Novidades</title>
-      <link>https://ceacweb.github.io/novidades/</link>
+      <link>https://andrebzf.github.io/ceac.github.io/novidades/</link>
     </image>
     
     <item>
       <title>Novo site do CEAC</title>
-      <link>https://ceacweb.github.io/novidades/novo_site_ceac/</link>
+      <link>https://andrebzf.github.io/ceac.github.io/novidades/novo_site_ceac/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ceacweb.github.io/novidades/novo_site_ceac/</guid>
+      <guid>https://andrebzf.github.io/ceac.github.io/novidades/novo_site_ceac/</guid>
       <description>&lt;p&gt;Uma nova forma de enchergar o CEAC já está disponivel!&lt;/p&gt;
 &lt;p&gt;O site do CEAC, chegou e estamos muito empolgados para, através do mesmo, divulgarmos diversas informações sobre, Engenharia, Programação e é claro sobre o nosso queridinho CEAC, fiquem ligados, em breve haverão muitas novidades por aqui, este é apenas o começo de muitos projetos que estão por vir.&lt;/p&gt;
 &lt;p&gt;Não perca as postagens por aqui, porque a cada postagem é um conhecimento adquirido e claro você não quer perder a oportunidade de se aprofundar ainda mais na área que mais cresce no mercado! É como diria um de nossos coordenadores &amp;ldquo;Conhecimento é uma liberdade necessária&amp;rdquo; - Ben Dêivide.&lt;/p&gt;</description>
